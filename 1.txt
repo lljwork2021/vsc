@@ -1,0 +1,4 @@
+git init
+git add .
+git commint -m "学习Git命令"
+git log
