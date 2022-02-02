@@ -12,3 +12,7 @@ git checkout
 
 创建新分支并切换到该分支
 git checkout -b newtest
+
+打标签
+git tag -a v1.1 -m "v1.1"
+git tag
