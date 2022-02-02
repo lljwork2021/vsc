@@ -2,3 +2,13 @@ git init
 git add .
 git commint -m "学习Git命令"
 git log
+
+创建分支
+git branch my-branch
+git branch
+
+切换分支
+git checkout
+
+创建新分支并切换到该分支
+git checkout -b newtest
